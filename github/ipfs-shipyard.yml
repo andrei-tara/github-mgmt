@@ -1246,6 +1246,7 @@ repositories:
       admin:
         - ianopolous
         - lidel
+        - andrei-tara
       push:
         - web3-bot
     description: A Java implementation of the HTTP IPFS API
